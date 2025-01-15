@@ -8,9 +8,9 @@ const inter = Barlow({
 });
 
 export const metadata: Metadata = {
-  title: "Altar App",
-  description: "A distraction-free space to share poems with others",
-  metadataBase: new URL("https://altar.vercel.app/"),
+  title: "Feather",
+  description: "Feather: A no BS todo app",
+  metadataBase: new URL("https://feather-website.vercel.app/"),
 };
 
 export default function RootLayout({
